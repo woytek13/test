@@ -4,3 +4,6 @@ function first(){
 
 
 first();
+
+first();
+first();
