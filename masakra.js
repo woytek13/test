@@ -3,3 +3,8 @@ function first(){
 }
 
 first();
+
+
+function viewTest() {
+    console.log("view tested");
+}
