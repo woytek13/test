@@ -3,3 +3,8 @@ function first(){
 }
 
 first();
+
+
+function initView() {
+    console.log("nited!");
+}
